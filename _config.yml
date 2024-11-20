@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Muxu Wang"
+  pronouns         : "she/her"  
+  bio              : "GIS | eXtended Reality"
+  location         : "Vancouver, British Columbia, Canada"
+  employer         : "MSc Geo-Information Science at Wageningen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "muxu.wang@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
