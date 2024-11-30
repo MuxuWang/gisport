@@ -6,59 +6,82 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+=========
+
+* Sep 2022 - Jun 2024: Wageningen University & Research 
+
+  * **Master of Science in Geo-Information Science**
+  
+    
+  
+* Sep 2016 - Jun 2021: Yunnan University
+
+  * **Bachelor of Engineering in Urban and Rural Planning** 
+  * Minor in Digital Media Technology
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+===============
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Nov 2024: Youth Employment Bootcamp Participant**	
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * YMCA BC | Vancouver, BC, Canada
+    * Enhanced problem-solving and organizational skills, improving task prioritization and workflow efficiency.
+    * Strengthened oral and written English communication skills, facilitating stakeholder engagement.
 
-Publications
+* **Mar – Jun 2024: R&D, Intern**
+* OnePlanet Research Center | Wageningen, Gelderland, the Netherlands
+    * Developed a region-growing (machine learning) algorithm in Unity (C#) VR environment, increasing annotation efficiency by 500% for point cloud data classification.
+    * Processed and analyzed LiDAR data with Python and Cloud Compare, improving data accuracy and dataset management.
+    * Created real-time 3D visualization effects in Unity for point cloud data, optimizing environmental data presentation for digital twin teams.
+
+* **Aug - Dec 2020: Assistant Designer, Intern**
+
+  * Yunnan Design Institute Group Co. | Kunming, Yunnan, China
+    * Organized large geospatial datasets in SQL Server and analyzed spatial data in ArcGIS, contributing to building up the survey datasets.
+    * Produced digital drawings of survey data and satellite images in AutoCAD and Adobe Creative Suite, enhancing project demonstration to clients and stakeholders.
+    * Assisted in renewal planning for old city areas by supporting policy analysis and communication, improving project documentation clarity for stakeholders.
+
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Sep 2023 - Feb 2024: Virtual Reality Simulated Augmented Reality Display on Windshields**
+
+  * Designed immersive autonomous driving scenes in Unity (C#) VR environment.
+  * Analyzed spatial and eye-tracking data in Python and R.
+
+* **May – Jul 2023: 3D Tree Root Modeling in Urban Subsoil**
+
+  * Implemented feature analysis in ArcGIS Pro and algorithms in Python to generate 3D tree root models.
+  * Visualized urban environmental datasets in Cesium.
+
+* **Sep 2023 - Feb 2024: Virtual Reality Simulated Augmented Reality Display on Windshields**
+
+  * Pre-processed satellite imagery in Google Earth Engine and managed land use datasets in ArcGIS.
+  * Collected land use data in field surveys and utilized AutoCAD to draw maps for survey data.
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* **GIS**:
+  * Working knowledge of ArcGIS applications, spatial data application and management 
+  * Machine learning & deep learning model utilization and development
+  * Unity VR project development
+
+* **Remote Sensing**:
+  * Lidar knowledge for point cloud acquisition and applications
+  * Satellite image downloading, processing and analysis
+
+* **Urban Planning**:
+  * Policy analysis and strategy design
+  * Land use analysis
+
+* **Programming**: 
+  * Python, C#, R, SQL, JavaScript, HTML, C++
+
+* **Software Application**: 
+  * Microsoft Office Suite, ArcGIS, SQL server, Cloud Compare, Agisoft, ERDAS Imagine, Unity, Photoshop, AutoCAD, SketchUp, Blender
+
+* **Web Platform**: 
+  * Google Earth Engine, Cesium, ArcGIS Online
