@@ -27,19 +27,19 @@ Work experience
 
 * **Nov 2024: Youth Employment Bootcamp Participant**	
 
-  * YMCA BC | Vancouver, BC, Canada
+  * YMCA BC in Vancouver, BC, Canada
     * Enhanced problem-solving and organizational skills, improving task prioritization and workflow efficiency.
     * Strengthened oral and written English communication skills, facilitating stakeholder engagement.
 
 * **Mar – Jun 2024: R&D, Intern**
-* OnePlanet Research Center | Wageningen, Gelderland, the Netherlands
-    * Developed a region-growing (machine learning) algorithm in Unity (C#) VR environment, increasing annotation efficiency by 500% for point cloud data classification.
-    * Processed and analyzed LiDAR data with Python and Cloud Compare, improving data accuracy and dataset management.
-    * Created real-time 3D visualization effects in Unity for point cloud data, optimizing environmental data presentation for digital twin teams.
+  * OnePlanet Research Center in Wageningen, Gelderland, the Netherlands
+      * Developed a region-growing (machine learning) algorithm in Unity (C#) VR environment, increasing annotation efficiency by 500% for point cloud data classification.
+      * Processed and analyzed LiDAR data with Python and Cloud Compare, improving data accuracy and dataset management.
+      * Created real-time 3D visualization effects in Unity for point cloud data, optimizing environmental data presentation for digital twin teams.
 
 * **Aug - Dec 2020: Assistant Designer, Intern**
 
-  * Yunnan Design Institute Group Co. | Kunming, Yunnan, China
+  * Yunnan Design Institute Group Co. in Kunming, Yunnan, China
     * Organized large geospatial datasets in SQL Server and analyzed spatial data in ArcGIS, contributing to building up the survey datasets.
     * Produced digital drawings of survey data and satellite images in AutoCAD and Adobe Creative Suite, enhancing project demonstration to clients and stakeholders.
     * Assisted in renewal planning for old city areas by supporting policy analysis and communication, improving project documentation clarity for stakeholders.
