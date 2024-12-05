@@ -6,4 +6,6 @@ type: "Immersive Automatic Driving simulation"
 permalink: /XR-projects/prj-1-autodriving.md
 venue: "Wageningen University"
 ---
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+This is an item in your portfolio. It can be have images or nice text. 
+
+If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
