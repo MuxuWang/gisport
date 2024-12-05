@@ -1,8 +1,11 @@
 ---
 title: "Automatic Driving simulation"
 collection: XR-projects
-excerpt: "<img src='{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR.png' alt='Immersive automatic driving simulation in VR environment'>"
+excerpt: "<img src='{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR1.png' alt='Immersive automatic driving simulation in VR environment'>"
+header: 
+  og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
+
 The full title for this XR project is:
 
 ***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***
@@ -10,12 +13,12 @@ The full title for this XR project is:
 Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks.
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <video width="400" height="270" controls>
+  <video width="540" height="300" controls>
     <source src="{{site.url}}/videos/xr-autodriving4scenes.mp4" type="video/mp4">
   </video>
   <figure>
-    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR.png" alt="Description of Image 1" width="400" height="120">
-    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-highwayAR.png" alt="Description of Image 2" width="400" height="120">
+    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR1.png" alt="Description of Image 1" width="200" height="120">
+    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-highwayAR1.png" alt="Description of Image 2" width="200" height="120">
   </figure>
 </div>
 
