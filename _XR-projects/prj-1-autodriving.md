@@ -15,7 +15,7 @@ excerpt: "<img src='/images/research/epr.png' alt='Immersive automatic driving s
   </figure>
 </div>
 
-![Automatic Driving simulation in City with Augmented Reality indicator on windshield](/images/xr-autodriving/XR-autodrive-cityAR.png)
+![Automatic Driving simulation in City with Augmented Reality indicator on windshield](../images/xr-autodriving/XR-autodrive-cityAR.png)
 
 ### Abstract
 
