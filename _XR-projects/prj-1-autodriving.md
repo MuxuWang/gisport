@@ -2,11 +2,8 @@
 title: "Automatic Driving simulation"
 collection: XR-projects
 excerpt: "<img src='/images/research/epr.png' alt='Immersive automatic driving simulation in VR environment'>"
-header: 
-  og_image: "xr-autodriving/XR-autodrive-cityAR.png"
 ---
 # Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers
-
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <video width="540" height="310" controls>
