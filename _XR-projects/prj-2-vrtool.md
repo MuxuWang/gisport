@@ -17,8 +17,8 @@ The demostration of the project includes three parts, to protect the copy right,
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <figure>
-      <img src="../images/xr-annotool/XR-annotool-orchardRGB.png" alt="" width="300" height="240">
-      <img src="../images/xr-annotool/XR-annotool-orchardview.png" alt="" width="400" height="240">
+      <img src="{{site.url}}/images/xr-annotool/XR-annotool-orchardRGB.png" alt="" width="300" height="240">
+      <img src="{{site.url}}/images/xr-annotool/XR-annotool-orchardview.png" alt="" width="400" height="240">
     </figure>
 </div>
 
@@ -26,7 +26,7 @@ The demostration of the project includes three parts, to protect the copy right,
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <figure>
-      <img src="../images/xr-annotool/XR-annotool-cover.png" alt="" width="300" height="240">
+      <img src="{{site.url}}/images/xr-annotool/XR-annotool-cover.png" alt="" width="300" height="240">
     </figure>
 </div>
 
@@ -34,6 +34,6 @@ The demostration of the project includes three parts, to protect the copy right,
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <figure>
-      <img src="../images/xr-annotool/XR-annotool-segmentation.png" alt="" width="300" height="240">
+      <img src="{{site.url}}/images/xr-annotool/XR-annotool-segmentation.png" alt="" width="300" height="240">
     </figure>
 </div>
