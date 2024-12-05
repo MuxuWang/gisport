@@ -6,6 +6,7 @@ header:
   og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
 
+
 This project is developed with Unity in C#. The full title for this XR project is:
 
 ***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***
@@ -24,6 +25,6 @@ Here is the demostration of the project, including a short video with four simul
 
 In this project, we conducted Varjo Aero headset to collect the eye-tracking data and questionnaires to analyze the connection between AR display and spatial awareness in different scenarios.
 
-**Here is the url link to the introduction of the project:**
+**Here is the introduction of the project:**
 
 [virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers](https://www.wur.nl/en/activity/virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers.htm)
