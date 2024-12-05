@@ -12,15 +12,21 @@ I hope you will enjoy following my progress towards completion of the project. I
 
 ---
 
-**Project 1: Fukusima map**
+### **Project 1: Fukusima map**
 
-**Project 2: Immigration map**
+<video width="540" height="300" controls>
+    <source src="../videos/fukushima.mp4" type="video/mp4">
+  </video>
 
-**Project 3: Amsterdam center monumental building maps**
+A dynamic maps that shows the evolution in the levels of radiation in the Fukushima area from 2010 to 2021.
 
-**Project 4: Biodiverse route**
+### **Project 2: Immigration map**
 
-**Project 5: 3D root web map**
+### **Project 3: Amsterdam center monumental building maps**
+
+### **Project 4: Biodiverse route**
+
+### **Project 5: 3D root web map**
 
 {% include base_path %}
 
