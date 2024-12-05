@@ -1,8 +1,9 @@
 ---
 title: "Automatic Driving simulation"
 collection: XR-projects
-excerpt: "<img src='../images/XR-autodrive-cover.png' width='150' height='100'> <br/>Immersive automatic driving simulation in VR environment"
-url: "https://www.wur.nl/en/activity/virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers.htm"
+excerpt: "<img src='/images/research/epr.png' alt='Immersive automatic driving simulation in VR environment'>"
+header: 
+  og_image: "xr-autodriving/XR-autodrive-cityAR.png"
 ---
 # Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers
 
@@ -17,6 +18,7 @@ url: "https://www.wur.nl/en/activity/virtual-reality-simulated-augmented-reality
   </figure>
 </div>
 
+![Automatic Driving simulation in City with Augmented Reality indicator on windshield](/images/xr-autodriving/XR-autodrive-cityAR.png)
 
 ### Abstract
 
