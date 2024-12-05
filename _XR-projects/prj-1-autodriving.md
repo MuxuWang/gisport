@@ -1,25 +1,19 @@
 ---
 title: "Automatic Driving simulation"
 collection: XR-projects
-excerpt: "<img src='/images/research/epr.png' alt='Immersive automatic driving simulation in VR environment'>"
+excerpt: "<img src='{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR.png' alt='Immersive automatic driving simulation in VR environment'>"
 ---
 # Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <video width="540" height="310" controls>
-    <source src="../videos/xr-autodriving4scenes.mp4" type="video/mp4">
+    <source src="{{site.url}}/videos/xr-autodriving4scenes.mp4" type="video/mp4">
   </video>
   <figure>
-    <img src="../images/xr-autodriving/XR-autodrive-cityAR.png" alt="Description of Image 1" width="400" height="150">
-    <img src="../images/xr-autodriving/XR-autodrive-highwayAR.png" alt="Description of Image 2" width="400" height="150">
+    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR.png" alt="Description of Image 1" width="400" height="150">
+    <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-highwayAR.png" alt="Description of Image 2" width="400" height="150">
   </figure>
 </div>
-
-![Automatic Driving simulation in City with Augmented Reality indicator on windshield](../images/xr-autodriving/XR-autodrive-cityAR.png)
-
-<img src="https://muxuwang.github.io/gisport/images/xr-autodriving/XR-autodrive-cityAR.png" style="display: block; margin: auto;" />
-
-<img src="{{site.url}}/images/xr-autodriving/XR-autodrive-highwayAR.png" style="display: block; margin: auto;" />
 
 ### Abstract
 
