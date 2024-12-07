@@ -1,10 +1,9 @@
 ---
-title: "Static maps"
+title: "Static Maps"
 collection: GIS-maps
 excerpt: "All basic static maps and drawings are displayed in this gallery."
 ---
 This is a description of a teaching experience. You can use markdown like any other post.
-
 
 ### **Project 1: Iberian Ibex Immigration map**
 
@@ -17,6 +16,7 @@ It is a significant reference which significantly establishing an ecological cor
 <br clear="left"/>
 
 Need to do:
+
 * 毕设
 * 实习项目 * 4
 * 总规
