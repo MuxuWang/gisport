@@ -15,8 +15,8 @@ I hope you will enjoy following my progress towards completion of the project. I
 ### **Project 1: Fukusima map**
 
 <video width="540" height="300" controls>
-    <source src="{{site.url}}/videos/fukushima.mp4" type="video/mp4">
-  </video>
+  <source src="{{site.url}}/videos/fukushima.mp4" type="video/mp4">
+</video>
 
 A dynamic maps that shows the evolution in the levels of radiation in the Fukushima area from 2010 to 2021.
 

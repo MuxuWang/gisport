@@ -1,12 +1,10 @@
 ---
 title: "Automatic Driving Simulation"
 collection: XR-projects
-excerpt: "<img src='{{site.url}}/images/xr-autodriving/XR-autodrive-cityAR1.png' alt='Immersive automatic driving simulation in VR environment'>"
+excerpt: "Immersive automatic driving simulation in VR environment"
 header: 
   og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
-
-
 This project is developed with Unity in C#. The full title for this XR project is:
 
 ***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***
