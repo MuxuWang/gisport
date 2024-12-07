@@ -15,8 +15,8 @@ The demostration of the project includes three parts, to protect the copy right,
 
 1. The visualization of the orchard LiDAR scanned data.
 
-  <img src="../images/xr-annotool/XR-annotool-visual.png" alt="" width="700" height="240">
+  <img src="{{site.url}}/images/xr-annotool/XR-annotool-visual.png" alt="" width="700" height="240">
 
 2. Automatic annotation tool with auto-segementation suggestion (pre-defined the catogories in Unity).
 
-  <img src="../images/xr-annotool/XR-annotool-seg.png" alt="" width="600" height="240">
+  <img src="{{site.url}}/images/xr-annotool/XR-annotool-seg.png" alt="" width="600" height="240">

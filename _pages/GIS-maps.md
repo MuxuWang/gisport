@@ -15,14 +15,14 @@ I hope you will enjoy following my progress towards completion of the project. I
 ### **Project 1: Fukusima map**
 
 <video width="540" height="300" controls>
-    <source src="../videos/fukushima.mp4" type="video/mp4">
+    <source src="{{site.url}}/videos/fukushima.mp4" type="video/mp4">
   </video>
 
 A dynamic maps that shows the evolution in the levels of radiation in the Fukushima area from 2010 to 2021.
 
 ### **Project 2: Iberian Ibex Immigration map**
 
-<img src="../images/GIS-maps/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
+<img src="{{site.url}}/images/GIS-maps/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
 
 The immigration map shows the corridor zones and movement paths of Iberian Ibex in the study area based on the the metadata. 
 It is a significant reference which significantly establishing an ecological corridor for the protection of Ibex.
@@ -32,7 +32,7 @@ It is a significant reference which significantly establishing an ecological cor
 ### **Project 3: Amsterdam center monumental building maps**
 
 <video id="myVideo" width="540" height="300" controls>
-  <source src="../videos/monu-building.mp4" type="video/mp4">
+  <source src="{{site.url}}/videos/monu-building.mp4" type="video/mp4">
 </video>
 
 This repository retrieves information about the monumental state of Dutch buildings on a national and municipal  level and specifies whether a given building is positioned within the protected cityscape area. 
