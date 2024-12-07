@@ -60,6 +60,6 @@ This demo indicates a interactive map using Cesium platform to illustrate the un
 
 {% include base_path %}
 
-{% for post in site.GIS-maps reversed %}
+{% for post in site.GIS-maps %}
   {% include archive-single.html %}
 {% endfor %}
