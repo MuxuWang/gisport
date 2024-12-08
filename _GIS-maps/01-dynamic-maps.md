@@ -2,7 +2,7 @@
 title: "Dynamic Maps"
 collection: GIS-maps
 type: "Interative web map"
-excerpt: "Interative maps in this gallery."
+excerpt: "Interative maps are stored in this gallery."
 ---
 ### **Project 1: Fukusima map**
 
