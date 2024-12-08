@@ -10,7 +10,9 @@ This is a description of a teaching experience. You can use markdown like any ot
 <img src="{{site.url}}/images/GIS-maps/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
 
 The immigration map shows the corridor zones and movement paths of Iberian Ibex in the study area based on the the metadata. It is a significant reference which significantly establishing an ecological corridor for the protection of Ibex.
-Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview). 
+
+
+Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
 <br clear="left"/>
 

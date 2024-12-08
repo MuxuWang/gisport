@@ -5,11 +5,9 @@ excerpt: "Immersive automatic driving simulation in VR environment"
 header: 
   og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
-This project is developed with Unity in C#. The full title for this XR project is:
 
-***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***
 
-Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks.
+The autonomous driving scenarios are developed by [Unity](https://unity.com/) using **C#** language. And the data analysis is processed with **Python** and **R**.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <video width="540" height="300" controls>
@@ -20,6 +18,8 @@ Here is the demostration of the project, including a short video with four simul
     <img src="{{site.url}}/images/xr-autodriving/XR-autodrive-highwayAR1.png" alt="Highway Scene" width="200" height="120">
   </figure>
 </div>
+
+Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks.
 
 In this project, we conducted Varjo Aero headset to collect the eye-tracking data and questionnaires to analyze the connection between AR display and spatial awareness in different scenarios.
 
