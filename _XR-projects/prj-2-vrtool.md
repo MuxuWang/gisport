@@ -2,8 +2,6 @@
 title: "Point Cloud VR Annotation Tool"
 collection: XR-projects
 excerpt: "LiDAR point cloud annotation tool with auto-segmentation suggection in VR environment."
-header: 
-  og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
 
 

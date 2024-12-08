@@ -2,8 +2,7 @@
 title: "Automatic Driving Simulation"
 collection: XR-projects
 excerpt: "Immersive automatic driving simulation in VR environment"
-header: 
-  og_image: "xr-autodriving/XR-autodrive-cityAR1.png"
+image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
 
 
