@@ -4,8 +4,6 @@ collection: XR-projects
 excerpt: "Immersive automatic driving simulation in VR environment"
 image: "xr-autodriving/XR-autodrive-cityAR1.png"
 ---
-
-
 The autonomous driving scenarios are developed by [Unity](https://unity.com/) using **C#** language. And the data analysis is processed with **Python** and **R**.
 
 <div style="display: flex; align-items: center; gap: 10px;">

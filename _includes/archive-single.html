@@ -66,5 +66,10 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% endif %}
 
+    {% if post.image %}
+    <img src="{{ post.image | relative_url }}">
+
+    {% endif %}
+
   </article>
 </div>
