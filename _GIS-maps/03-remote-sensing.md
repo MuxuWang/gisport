@@ -3,20 +3,10 @@ title: "Remote Sensing"
 collection: GIS-maps
 excerpt: "Projects with geospatial data analysis and processing by using remote sensing technology."
 ---
-### Project 1: Urban Surface Temperature Change
+### Project 1: Urban Surface Temperature Change Time Series Analysis
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <figure>
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/timeseries-temperature-map.png" 
-        alt="Day and Night Temperature Map" width="450" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/timeseries-LST-plot.png" 
-        alt="LST analysis plot for one pixel" width="300" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/timeseries-day-tempbreak-map.png" 
-        alt="Day temperature break map" width="450" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/timeseries-day-tempbreak-plot.png" 
-        alt="temperature break analysis plot" width="450" height="200">
-  </figure>
-</div>
+<img src="{{site.url}}/images/GIS-maps/Remote-sensing/timeseries.png" alt="Time series analysis">
+
 
 This study investigates the impact of the COVID-19 epidemic on land surface temperature (LST) in Wuhan's central city.
 
@@ -24,16 +14,7 @@ Using MODIS LST data from 2013 to 2023 (resource from: [Google Earth Engine](htt
 
 ### Project 2: Land Cover Classification with Random Forest
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <figure>
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/ml-landcover-raster.png" 
-        alt="Image 1 raster" width="650" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/ml-landcover-metrics.png" 
-        alt="Metrics for classification" width="300" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/ml-landcover-classification.png" 
-        alt="Land cover prediction results for image 2" width="700" height="200">
-  </figure>
-</div>
+<img src="{{site.url}}/images/GIS-maps/Remote-sensing/ml-landcover.png" alt="machine learning" >
 
 This project involves a **machine learning** algorithm for remote sensing: classifying satellite images into land cover types on a per-pixel basis over Zurich, Switzerland.
 
@@ -41,18 +22,9 @@ Using a [Python](https://www.python.org/) implementation of the Random Forest cl
 
 ### Project 3: Land Use Classification with AlexNet and ResNet
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <figure>
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/dl-singlelabel-predict-img.png" 
-        alt="Image 1 raster" width="450" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/dl-singlelabel-predict.png" 
-        alt="Land cover prediction results for image 2" width="220" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/dl-multilabel-predict-img.png" 
-        alt="Image 1 raster" width="300" height="200">
-    <img src="{{site.url}}/images/GIS-maps/Remote-sensing/dl-multilabel-predict.png" 
-        alt="Land cover prediction results for image 2" width="400" height="200">
-  </figure>
-</div>
+<img src="{{site.url}}/images/GIS-maps/Remote-sensing/dl-landuse.png"  alt="deep learning">
+
+
 
 This project explores land-use classification using satellite images from the [UCM Dataset](https://paperswithcode.com/dataset/uc-merced-land-use-dataset), leveraging **deep learning** techniques in [Python](https://www.python.org/).
 
