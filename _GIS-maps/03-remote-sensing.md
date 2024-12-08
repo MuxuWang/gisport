@@ -22,11 +22,20 @@ This study investigates the impact of the COVID-19 epidemic on land surface temp
 
 Using MODIS LST data from 2013 to 2023 (resource from: [Google Earth Engine](https://earthengine.google.com/)), and applying the [BFAST algorithm](https://cran.r-project.org/web/packages/bfast/bfast.pdf) in [R](https://www.r-project.org/) for time series analysis, the study identifies significant breakpoints in LST during the 2020 urban lockdown, revealing reductions in urban surface temperature. These changes are attributed to decreased human activity and energy consumption, highlighting a temporary mitigation of the urban heat island effect.
 
+### Project 2: land cover classification with mechine learning algorithm
 
-### Project 2: land cover classification: mechine learning algorithm
+<div style="display: flex; align-items: center; gap: 10px;">
+  <figure>
+    <img src="../images/GIS-maps/Remote-sensing/image-landcover-raster.png" 
+        alt="Image 1 raster" width="650" height="200">
+    <img src="../images/GIS-maps/Remote-sensing/image-landcover-metrics.png" 
+        alt="Metrics for classification" width="300" height="200">
+    <img src="../images/GIS-maps/Remote-sensing/image-landcover-classification.png" 
+        alt="Land cover prediction results for image 2" width="700" height="200">
+  </figure>
+</div>
 
-
-under construction
+This project involves a **machine learning** algorithm for remote sensing: classifying satellite images into land cover types on a per-pixel basis over Zurich, Switzerland. Using a [Python](https://www.python.org/) implementation of the Random Forest classifier, we will process Image 1 by extracting band features and calculate metrics to train the classification model for various land cover classes. The trained model will then predict land cover types in Image 2, demonstrating the application of supervised classification in remote sensing analysis.
 
 ### Project 3: Land objects classification: deep learning
 
