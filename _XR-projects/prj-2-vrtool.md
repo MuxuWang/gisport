@@ -2,6 +2,7 @@
 title: "Point Cloud VR Annotation Tool"
 collection: XR-projects
 excerpt: "LiDAR point cloud annotation tool with auto-segmentation suggection in VR environment."
+image: "../images/xr-annotool/XR-annotool-thumbnail.png"
 ---
 This project is developed with [Unity](https://unity.com/) and [Cloud Compare](https://www.danielgm.net/cc/), using **C#** and **Python programming** languages.
 
