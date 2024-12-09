@@ -7,24 +7,66 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 ### **Project 1: Iberian Ibex Immigration map**
 
-<img src="{{site.url}}/images/GIS-maps/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
+<img src="../images/GIS-maps/static-map/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
 
 The immigration map shows the corridor zones and movement paths of Iberian Ibex in the study area based on the the metadata. It is a significant reference which significantly establishing an ecological corridor for the protection of Ibex.
-
 
 Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview).
 
 <br clear="left"/>
 
-Need to do:
+### **Project 2: Shiqiaohe Village Planning**
 
-* 毕设
+<img src="../images/GIS-maps/static-map/shiqiaohe-maps.png" align="right" width=560 height=350 style="margin-left: 50px;">
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+
+*Project location is Shiqiaohe, Chuxiong, Yunnan.*
+
+*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*
+
+<br clear="right"/>
+
+### **Project 3: Xundian County Planning**
+
+<img src="../images/GIS-maps/static-map/xundian-maps.png" align="right" width=560 height=300 style="margin-left: 40px;">
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+
+*Project location is Xundian, Kunming, Yunnan.*
+
+<br clear="right">
+
+### **Project 4: Dounan Town Planning**
+
+<img src="../images/GIS-maps/static-map/dounan-maps.png" align="left" width=560 height=300 style="margin-right: 40px;">
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+
+*Project location is in Kunming, Yunnan.*
+
+<br clear="left">
+
+### **Project 5: Yunnan University Land Use change Analysis**
+
+<img src="../images/GIS-maps/static-map/yunnan-landuse-maps.png" width=930 height=200>
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+
+*Project location is in Kunming, Yunnan.*
+
+Need to do:
 * 实习项目 * 4
-* 总规
-* 控规
 * 村规
 * 城市规划1
 * 城市规划2
 * 西部之光
 * 城市设计
-* GIS 大作业
