@@ -7,7 +7,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 ### **Project 1: Iberian Ibex Immigration map**
 
-<img src="../images/GIS-maps/static-map/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/Immigration_map.png" alt="Iberian Ibex immigration map" align="left" width=240 height=350 style="margin-right: 50px;">
 
 The immigration map shows the corridor zones and movement paths of Iberian Ibex in the study area based on the the metadata. It is a significant reference which significantly establishing an ecological corridor for the protection of Ibex.
 
@@ -17,7 +17,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 ### **Project 2: Shiqiaohe Village Planning**
 
-<img src="../images/GIS-maps/static-map/shiqiaohe-maps.png" align="right" width=560 height=350 style="margin-left: 50px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/shiqiaohe-maps.png" align="right" width=560 height=350 style="margin-left: 50px;">
 
 *Here is the space left for the project description.*
 
@@ -25,13 +25,11 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is Shiqiaohe, Chuxiong, Yunnan.*
 
-*XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*
-
 <br clear="right"/>
 
 ### **Project 3: Xundian County Planning**
 
-<img src="../images/GIS-maps/static-map/xundian-maps.png" align="right" width=560 height=300 style="margin-left: 40px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/xundian-maps.png" align="right" width=560 height=300 style="margin-left: 40px;">
 
 *Here is the space left for the project description.*
 
@@ -43,7 +41,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 ### **Project 4: Dounan Town Planning**
 
-<img src="../images/GIS-maps/static-map/dounan-maps.png" align="left" width=560 height=300 style="margin-right: 40px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/dounan-maps.png" align="left" width=560 height=300 style="margin-right: 40px;">
 
 *Here is the space left for the project description.*
 
@@ -55,7 +53,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 ### **Project 5: Yunnan University Land Use change Analysis**
 
-<img src="../images/GIS-maps/static-map/yunnan-landuse-maps.png" width=930 height=200>
+<img src="{{site.url}}/images/GIS-maps/static-map/yunnan-landuse-maps.png" width=930 height=200>
 
 *Here is the space left for the project description.*
 
