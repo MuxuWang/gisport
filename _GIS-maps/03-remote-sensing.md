@@ -2,6 +2,7 @@
 title: "Remote Sensing"
 collection: GIS-maps
 excerpt: "Projects with geospatial data analysis and processing by using remote sensing technology."
+image: "../images/GIS-maps/remote-sensing-thumbnail.png"
 ---
 ### Project 1: Urban Surface Temperature Change Time Series Analysis
 
