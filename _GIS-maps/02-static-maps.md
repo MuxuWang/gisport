@@ -17,7 +17,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 ### **Project 2: Shiqiaohe Village Planning**
 
-<img src="{{site.url}}/images/GIS-maps/static-map/shiqiaohe-maps.png" align="right" width=560 height=350 style="margin-left: 50px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/shiqiaohe-maps.png" width=560 height=350 >
 
 *Here is the space left for the project description.*
 
@@ -25,11 +25,11 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is Shiqiaohe, Chuxiong, Yunnan.*
 
-<br clear="right"/>
+
 
 ### **Project 3: Xundian County Planning**
 
-<img src="{{site.url}}/images/GIS-maps/static-map/xundian-maps.png" align="right" width=560 height=300 style="margin-left: 40px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/xundian-maps.png" width=560 height=300>
 
 *Here is the space left for the project description.*
 
@@ -37,11 +37,10 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is Xundian, Kunming, Yunnan.*
 
-<br clear="right">
 
 ### **Project 4: Dounan Town Planning**
 
-<img src="{{site.url}}/images/GIS-maps/static-map/dounan-maps.png" align="left" width=560 height=300 style="margin-right: 40px;">
+<img src="{{site.url}}/images/GIS-maps/static-map/dounan-maps.png" width=560 height=300>
 
 *Here is the space left for the project description.*
 
@@ -49,7 +48,6 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is in Kunming, Yunnan.*
 
-<br clear="left">
 
 ### **Project 5: Yunnan University Land Use change Analysis**
 
