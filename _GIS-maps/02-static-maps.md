@@ -21,7 +21,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Here is the space left for the project description.*
 
-*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
 
 *Project location is Shiqiaohe, Chuxiong, Yunnan.*
 
@@ -33,7 +33,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Here is the space left for the project description.*
 
-*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is Xundian, Kunming, Yunnan.*
 
@@ -44,7 +44,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Here is the space left for the project description.*
 
-*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is in Kunming, Yunnan.*
 
@@ -55,7 +55,7 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Here is the space left for the project description.*
 
-*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Photoshop. Project presentation was achieved by Microsoft 365. The metadata was managed by **SQL**.*
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is in Kunming, Yunnan.*
 
