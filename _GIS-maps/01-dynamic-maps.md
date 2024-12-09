@@ -3,6 +3,7 @@ title: "Dynamic Maps"
 collection: GIS-maps
 type: "Interative web map"
 excerpt: "Interative maps are stored in this gallery."
+image: "../images/GIS-maps/dynamic-map-thumbnail.png"
 ---
 ### **Project 1: Fukusima map**
 
@@ -32,7 +33,7 @@ document.getElementById('myVideo').defaultPlaybackRate = 2.0;
   <source src="{{site.url}}/videos/biodiversity-route-app.mp4" type="video/mp4">
 </video>
 
-The video shows an interactive pdf created by [Adobe Acroba](https://www.adobe.com/acrobat.html)t with a mobilized form. The demostration provides an application which showcase the possible walking route with highest biodiversity rate. The route is in an interested area: Groenlo, where situated in the eastern part of the Netherlands, on the German border. 
+The video shows an interactive pdf created by [Adobe Acroba](https://www.adobe.com/acrobat.html)t with a mobilized form. The demostration provides an application which showcase the possible walking route with highest biodiversity rate. The route is in an interested area: Groenlo, where situated in the eastern part of the Netherlands, on the German border.
 
 Raster images preprocessed and downloaded from [Google Earth Engine](https://earthengine.google.com/), and basic geospatial data analysis such as land use classification and route selection are conducted in [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview). The metadata and dataset were managed by [Microsoft 365](https://www.microsoft.com/en-ca/microsoft-365/microsoft-office), [Git](https://git-scm.com/) ,and **SQL**.
 
