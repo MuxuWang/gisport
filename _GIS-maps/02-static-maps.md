@@ -26,8 +26,6 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is Shiqiaohe, Chuxiong, Yunnan.*
 
-
-
 ### **Project 3: Xundian County Planning**
 
 <img src="{{site.url}}/images/GIS-maps/static-map/xundian-maps.png" width=560 height=300>
@@ -37,7 +35,6 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 *Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is Xundian, Kunming, Yunnan.*
-
 
 ### **Project 4: Dounan Town Planning**
 
@@ -49,7 +46,6 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is in Kunming, Yunnan.*
 
-
 ### **Project 5: Yunnan University Land Use change Analysis**
 
 <img src="{{site.url}}/images/GIS-maps/static-map/yunnan-landuse-maps.png" width=930 height=200>
@@ -59,7 +55,6 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 *Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is in Kunming, Yunnan.*
-
 
 ### **Project 6: Haiyan Villiage Renewal**
 
@@ -80,7 +75,3 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 *Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
 
 *Project location is in Kunming, Yunnan.*
-
-Need to do:
-* 实习项目 * 4
-
