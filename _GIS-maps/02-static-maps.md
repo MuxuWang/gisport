@@ -2,6 +2,7 @@
 title: "Static Maps"
 collection: GIS-maps
 excerpt: "All basic static maps and drawings are displayed in this gallery."
+image: "../images/GIS-maps/static-map-thumbnail.png"
 ---
 This is a description of a teaching experience. You can use markdown like any other post.
 
