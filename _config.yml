@@ -216,6 +216,9 @@ collections:
   GIS-maps:
     output: true
     permalink: /:collection/:path/
+  remote-sensing:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -257,8 +260,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+
+  # _remote-sensing
+  - scope:
+      path: ""
+      type: remote-sensing
+    values:
+      layout: single
+      author_profile: true
   # _publications
   - scope:
       path: ""
@@ -275,8 +284,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _urban-planning
   - scope:
       path: ""
@@ -284,8 +291,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
