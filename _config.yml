@@ -222,6 +222,9 @@ collections:
   XR-projects:
     output: true
     permalink: /:collection/:path/
+  urban-planning:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
@@ -269,6 +272,15 @@ defaults:
   - scope:
       path: ""
       type: XR-projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _urban-planning
+  - scope:
+      path: ""
+      type: urban-planning
     values:
       layout: single
       author_profile: true

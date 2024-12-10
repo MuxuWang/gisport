@@ -59,10 +59,27 @@ Geospatial data managed, analysis and map created in [ArcGIS Pro](https://www.es
 
 *Project location is in Kunming, Yunnan.*
 
+
+### **Project 6: Haiyan Villiage Renewal**
+
+<img src="{{site.url}}/images/GIS-maps/static-map/haiyan-villiage-planning.png" width=800 height=200>
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
+
+*Project location is in Kunming, Yunnan.*
+
+### **Project 7: Shuanghexiang Land Use Planning**
+
+<img src="{{site.url}}/images/GIS-maps/static-map/shuanghexiang-maps.png" width=900 height=200>
+
+*Here is the space left for the project description.*
+
+*Project maps were conducted by using ArcGIS Desktop, AutoCAD, and Adobe Creative Suite. Project presentation was achieved by Microsoft 365.*
+
+*Project location is in Kunming, Yunnan.*
+
 Need to do:
 * 实习项目 * 4
-* 村规
-* 城市规划1
-* 城市规划2
-* 西部之光
-* 城市设计
+
