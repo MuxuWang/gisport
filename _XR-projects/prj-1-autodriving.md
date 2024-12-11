@@ -4,7 +4,7 @@ collection: XR-projects
 excerpt: "Immersive automatic driving simulation in VR environment"
 image: "../images/xr-autodriving/XR-autodrive-thumbnail.png"
 ---
-The autonomous driving scenarios are developed by [Unity](https://unity.com/) using **C#** language. And the data analysis is processed with **Python** and **R**.
+The autonomous driving scenarios are developed by [Unity](https://unity.com/) using **C#** language. 3D models are conducted with [Blender](https://www.blender.org/) and [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html). And the data analysis is processed with **Python** and **R**.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <video width="540" height="300" controls>
@@ -18,7 +18,7 @@ The autonomous driving scenarios are developed by [Unity](https://unity.com/) us
 
 Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks.
 
-In this project, we conducted Varjo Aero headset to collect the eye-tracking data and questionnaires to analyze the connection between AR display and spatial awareness in different scenarios.
+In this project, we conducted Varjo Aero headset to collect the **eye-tracking** data and questionnaires to analyze the connection between AR display and spatial awareness in different scenarios.
 
 **Here is the introduction of the project:**
 
