@@ -1,6 +1,6 @@
 ---
 title: "Point Cloud VR Annotation Tool"
-collection: XR-projects
+collection: 
 excerpt: "LiDAR point cloud annotation tool with auto-segmentation suggection in VR environment."
 image: "../images/xr-annotool/XR-annotool-thumbnail.png"
 ---
