@@ -22,17 +22,26 @@ Education
 Work experience
 ===============
 
+* **Oct 2024 – Present: Co-Supervisor, Master’s Research Projects**
+
+  * Wageningen University & Research, Remote
+
+    * Provided technical guidance on spatial data visualization, remote sensing techniques, and GIS applications to enhance virtual reality (VR) project outcomes.
+    * Coordinated the preparation of research deliverables, including academic papers, presentations, and technical reports, ensuring alignment with academic standards.
+
 * **Nov 2024: Youth Employment Bootcamp Participant**
 
   * YMCA BC in Vancouver, BC, Canada
     * Enhanced problem-solving and organizational skills, improving task prioritization and workflow efficiency.
     * Strengthened oral and written English communication skills, facilitating stakeholder engagement.
+
 * **Mar – Jun 2024: R&D, Intern**
 
   * OnePlanet Research Center in Wageningen, Gelderland, the Netherlands
     * Developed a region-growing (machine learning) algorithm in Unity (C#) VR environment, increasing annotation efficiency by 500% for point cloud data classification.
     * Processed and analyzed LiDAR data with Python and Cloud Compare, improving data accuracy and dataset management.
     * Created real-time 3D visualization effects in Unity for point cloud data, optimizing environmental data presentation for digital twin teams.
+
 * **Aug - Dec 2020: Assistant Designer, Intern**
 
   * Yunnan Design Institute Group Co. in Kunming, Yunnan, China
