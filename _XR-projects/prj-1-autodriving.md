@@ -1,10 +1,12 @@
 ---
-title: "Automatic Driving Simulation"
+title: "Autonomous Driving with VR-Simulated AR Displays"
 collection: XR-projects
 excerpt: "Immersive automatic driving simulation in VR environment"
 image: "../images/xr-autodriving/XR-autodrive-thumbnail.png"
 ---
-The autonomous driving scenarios are developed by [Unity](https://unity.com/) using **C#** language. 3D models are conducted with [Blender](https://www.blender.org/) and [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html). And the data analysis is processed with **Python** and **R**.
+> This is a master's thesis project titled "***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***".
+
+My master's thesis explores how augmented reality (AR) technology integrated with virtual reality (VR) simulations can enhance spatial awareness for autonomous car drivers. In this project, I developed four simulated autonomous driving environments using [Unity](https://unity.com/) with **C#**, incorporating VR and AR elements to study driver behavior. By analyzing eye-tracking data through **Python**, I investigated how AR displays on windshields impact spatial cognition and decision-making. The findings offer insights into how immersive technology can improve safety and situational awareness in autonomous driving scenarios.
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <video width="540" height="300" controls>
@@ -16,10 +18,12 @@ The autonomous driving scenarios are developed by [Unity](https://unity.com/) us
   </figure>
 </div>
 
-Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks.
+Here is the demostration of the project, including a short video with four simulation scenes. Users could experience two driving environments: city road and  highway. Meanwhile, they could adjust if the AR indicators projected on the windsheld to hint the direction of the local and distant landmarks. 3D models are conducted with [Blender](https://www.blender.org/) and [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html).
 
-In this project, we conducted Varjo Aero headset to collect the **eye-tracking** data and questionnaires to analyze the connection between AR display and spatial awareness in different scenarios.
+In this project, we utilized **Oculus Quest 2** for Unity project development and conducted **Varjo Aero** headset during research experiments. During the research, we collected the **eye-tracking** data and questionnaires from voluntary participants. The research data were used to analyze the connection between AR display and spatial awareness in different scenarios.
 
-**Here is the introduction of the project:**
+**Project links:**
 
-[virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers](https://www.wur.nl/en/activity/virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers.htm)
+[1. Abstract and Colloquium](https://www.wur.nl/en/activity/virtual-reality-simulated-augmented-reality-display-on-windshields-improving-the-spatial-awareness-of-autonomous-car-drivers.htm)
+
+[2. Full MSc thesis](https://library.wur.nl/WebQuery/theses/2332789)
