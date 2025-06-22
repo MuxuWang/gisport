@@ -17,5 +17,8 @@ main:
   - title: "Urban Planning"
     url: /urban-planning/
 
+  - title: "Web Development"
+    url: /web-development/
+
   - title: "CV"
     url: /cv/
