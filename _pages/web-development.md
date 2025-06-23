@@ -10,6 +10,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.GIS-maps %}
+{% for post in site.web-development %}
   {% include archive-single.html %}
 {% endfor %}
