@@ -1,10 +1,10 @@
 ---
-title: "Point Cloud VR Annotation Tool"
+title: "VR Tools for Manual and Semi-Automatic Annotation of LiDAR Point Clouds"
 collection: XR-projects
 excerpt: "LiDAR point cloud annotation tool with auto-segmentation suggection in VR environment."
 image: "../images/xr-annotool/XR-annotool-thumbnail.png"
 ---
-> A **confidential** student research project at [OnePlanet Research Center](https://www.oneplanetresearch.nl/).
+> A **confidential** student research project at [OnePlanet Research Center](https://www.oneplanetresearch.nl/). Project collaborated with Wageningen University & Research.
 >
 > **Patent** applied by IMEC: Wang, M; Boom, B; Slob, N. 2025. *System and Method for Point Cloud Data Annotation in a Virtual Environment.* (Netherlands Patent EP 25185070.7). Patent pending.
 

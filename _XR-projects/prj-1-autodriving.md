@@ -4,7 +4,9 @@ collection: XR-projects
 excerpt: "Immersive automatic driving simulation in VR environment"
 image: "../images/xr-autodriving/XR-autodrive-thumbnail.png"
 ---
-> This is a master's thesis project titled "***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***".
+> This is a master's thesis project titled "***Virtual Reality Simulated Augmented Reality Display on Windshields: Improving the Spatial Awareness of Autonomous Car Drivers***". 
+>
+>Supervisor: [Prof. Jiayan Zhao](https://www.wur.nl/en/persons/jiayan-zhao.htm) at Wageningen University & Research
 
 My master's thesis explores how augmented reality (AR) technology integrated with virtual reality (VR) simulations can enhance spatial awareness for autonomous car drivers. In this project, I developed four simulated autonomous driving environments using [Unity](https://unity.com/) with **C#**, incorporating VR and AR elements to study driver behavior. By analyzing eye-tracking data through **Python**, I investigated how AR displays on windshields impact spatial cognition and decision-making. The findings offer insights into how immersive technology can improve safety and situational awareness in autonomous driving scenarios.
 
